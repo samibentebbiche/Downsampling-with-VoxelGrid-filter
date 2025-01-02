@@ -1,0 +1,15 @@
+# Ignore build directories
+
+CMakeCache.txt
+cmake_install.cmake
+interactive_icp
+Makefile
+CMakeFiles/
+CMakeLists.txt.user
+CMakeLists.txt.cache
+CMakeLists.txt.vars
+
+# Ignore compiled binaries
+*.out
+*.o
+*.a
