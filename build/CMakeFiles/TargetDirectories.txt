@@ -1,3 +1,0 @@
-/home/sami/Documents/cpp/PCL/Preprocessing Points Clouds/Downsampling ( VoxelGrid)/build/CMakeFiles/voxel_grid.dir
-/home/sami/Documents/cpp/PCL/Preprocessing Points Clouds/Downsampling ( VoxelGrid)/build/CMakeFiles/edit_cache.dir
-/home/sami/Documents/cpp/PCL/Preprocessing Points Clouds/Downsampling ( VoxelGrid)/build/CMakeFiles/rebuild_cache.dir
